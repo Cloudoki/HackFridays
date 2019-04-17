@@ -1,0 +1,2 @@
+# HackFridays
+The HackFridays board
